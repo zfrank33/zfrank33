@@ -1,4 +1,4 @@
-Hello and welcome to my GitHub profile! My name is [Your Name], and I am a professional data analyst.
+Hello and welcome to my GitHub profile! My name is Francisco Guadarrama, and I am a professional data analyst.
 
 As a data analyst, I have experience in analyzing and interpreting complex data sets to identify trends and insights that help businesses make informed decisions. My skills include data cleaning and preprocessing, data visualization, statistical analysis, and predictive modeling.
 
